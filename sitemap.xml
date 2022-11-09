@@ -30,4 +30,10 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:为什么大厂严禁使用自增主键</loc>
+		<lastmod>2022-11-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
 </urlset>
