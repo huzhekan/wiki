@@ -1,0 +1,8 @@
+created: 20221109130747099
+modified: 20221109131036542
+tags: 为什么大厂严禁使用自增主键?
+title: UUID是好的替代方案吗？
+type: text/vnd.tiddlywiki
+
+* UUID无序，因为无序会造成索引重排。
+* 作为主键的话128位比较长。

@@ -1,0 +1,10 @@
+created: 20221109131404994
+modified: 20221109131628024
+tags: 为什么大厂严禁使用自增主键?
+title: 雪花算法
+type: text/vnd.tiddlywiki
+
+# 1bit 符号位
+# 41bit 时间戳
+# 10bit 机器ID
+# 12bit 序列 - 每毫秒生成的序列

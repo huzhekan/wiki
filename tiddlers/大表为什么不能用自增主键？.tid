@@ -1,0 +1,9 @@
+created: 20221109130222933
+modified: 20221109130722264
+tags: 为什么大厂严禁使用自增主键?
+title: 大表为什么不能用自增主键？
+type: text/vnd.tiddlywiki
+
+* 范围分片
+* 尾部热点
+* 
